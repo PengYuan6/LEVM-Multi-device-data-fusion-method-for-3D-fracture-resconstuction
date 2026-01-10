@@ -5,7 +5,7 @@ This repository provides open-source code and datasets for a three-dimensional r
 >
 The overall workflow of the proposed method is illustrated in the figure. Its core advantages can be summarized as follows:
 
-![LEVM workflow](图片路径)
+![LEVM workflow](LEVM worflow.jpg)
 
 - By integrating the complementary strengths of CT imaging and 3D scanning, two relatively low-cost and individually lower-precision devices are effectively combined to achieve a more accurate reconstruction of three-dimensional fracture geometry.
 - Only local CT scanning of the fracture region is required to recover the complete tensile fracture structure.
