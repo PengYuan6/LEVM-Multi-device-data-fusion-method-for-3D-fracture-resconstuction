@@ -1,7 +1,7 @@
 # LEVM：A Multi-device Data fusion Method for Rock Tensile Fracture Reconstruction 
-This repository provides open-source code and datasets for a three-dimensional rock fracture reconstruction method. The associated manuscript has been submitted to IJRMMS.
+This repository provides open-source code and datasets for a three-dimensional rock fracture reconstruction method. The associated manuscript has been accepted to *International Journal of Rock Mechanics and Mining Sciences*.
 >**Notice**: 
->As the authors were occupied with completing the master’s thesis, some code and dataset annotations may not be sufficiently detailed. If there are **ANY** questions regarding the code or data, please contact the me at l15650107296@163.com. **All** inquiries will be responded to in a timely manner.
+>As the authors were occupied with completing the master’s thesis, some code and dataset annotations may not be sufficiently detailed. If there are **ANY** questions regarding the code or data, please contact  me at l15650107296@163.com. **All** inquiries will be responded to in a timely manner.
 >
 The overall workflow of the proposed method is illustrated in the figure. Its core advantages can be summarized as follows:
 
